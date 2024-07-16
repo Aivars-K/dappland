@@ -8,7 +8,7 @@
     "Infrastructure"
   ],
   "contracts": [
-    // If no contracts yet, delete from here to closing curly brace
+    // If no contracts yet, delete from here to closing curly brace .
     // TODO
     {
       "name": "<Name of Mainnet contract 1 (remove entry in array if it doesn't apply, add more entries if there are more contracts)>",
